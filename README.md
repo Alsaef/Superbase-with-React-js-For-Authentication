@@ -496,6 +496,15 @@ https://docs.google.com/document/d/1-wDi4nQE4TTMmed1Pew_8uetoKOTjyJc_tau6LLg68I/
 
 
 ---
+# 👨‍💻 Author
+
+Al Saef Ratul
+
+---
+
+# ⭐ Support
+
+If you found this repository helpful, give it a star on GitHub and share it with others.
 
 # Conclusion
 
